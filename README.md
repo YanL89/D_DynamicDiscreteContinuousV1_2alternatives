@@ -1,4 +1,4 @@
-# DynamicDiscreteContinuous_2alt
+# D_DynamicDiscreteContinuousV1_2alternatives
 This is our first version of dynamic discrete-continuous choice model which allows TWO alternatives in the discrete choice 
 
 Library "dcmodels_1.0.01.tar.gz" must be installed before using this R package. You can find the installation instruction for R/RStudio here: https://stat.ethz.ch/pipermail/r-help/2008-August/169599.html 
